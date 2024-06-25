@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pard.crc.nd.edu	TRUE	/	FALSE	1999999999	49468458f55722024a5d3dded1b3e3e9	fvou4pero9jnfnrmg0kktnise6
+
